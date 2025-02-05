@@ -1,4 +1,4 @@
 function TestFunction ()
 {
-  console.log("OKAY");
+  alert("OKAY");
 };

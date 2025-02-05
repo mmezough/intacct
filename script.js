@@ -1,4 +1,4 @@
-function add ()
+function TestFunction ()
 {
   return 5;
 };
